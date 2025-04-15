@@ -6,7 +6,7 @@
 #    By: tomoron <tomoron@student.42angouleme.fr>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/09 22:01:56 by tomoron           #+#    #+#              #
-#    Updated: 2025/03/27 18:53:17 by tomoron          ###   ########.fr        #
+#    Updated: 2025/04/15 15:24:43 by tomoron          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -33,5 +33,6 @@
 	bibata-cursors
 	libcaca
 	nasm
+	firefox
   ];
 }
